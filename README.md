@@ -9,4 +9,4 @@
 
 > [!TIP]
 >
-> Подробную документацию можно найти [здесь]()
+> Подробную документацию можно найти [здесь](https://github.com/chipsHunter/rgb-lapm-with-remote-control/blob/main/docs/SRS.md)
