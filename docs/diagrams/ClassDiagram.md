@@ -1,6 +1,6 @@
 # Диаграмма классов  
 
-![Диаграмма классов]() 
+![Диаграмма классов](https://github.com/chipsHunter/rgb-lapm-with-remote-control/blob/main/docs/diagrams/classdiagram.jpg)
 
 # Глоссарий
 
