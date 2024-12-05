@@ -1,6 +1,6 @@
 # Диаграмма вариантов использования
 
-![Диаграмма вариантов использования]() 
+![Диаграмма вариантов использования](https://github.com/chipsHunter/rgb-lapm-with-remote-control/blob/main/docs/diagrams/usecase.jpg) 
   
 # Глоссарий
 
